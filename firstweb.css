@@ -4,7 +4,7 @@
 }
 header{
     width:100%; height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.4)),url("Cultural Heritage of India.jpg");
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("Cultural Heritage of India.jpg") center center;
     background-repeat: no-repeat;
     background-size: cover;
 }
