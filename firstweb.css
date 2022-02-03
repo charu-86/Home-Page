@@ -4,7 +4,7 @@
 }
 header{
     width:100%; height: 100vh;
-    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("Cultural Heritage of India.jpg") center center;
+    background-image:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url("Cultural Heritage of India.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -103,14 +103,14 @@ section .button2{
 }
 @keyframes changetext{
     0%{
-        content: "DELHI";}
-    10%{ content: "JAIPUR";}
-    21%{content:"ARUNACHAL";}
-    32%{content:"RAJSTHAN";}
-    43%{content: "SIKKIM";}
-    54%{content: "MANIPUR";}
-    65%{content: "KERALA";}
-    76%{content: "KASHMIR";}
-    87%{content: "BIHAR";}
-    100%{content: "BENGAL";}
+        content: " DELHI";}
+    10%{ content: " JAIPUR";}
+    21%{content:" ARUNACHAL";}
+    32%{content:" RAJSTHAN";}
+    43%{content: " SIKKIM";}
+    54%{content: " MANIPUR";}
+    65%{content: " KERALA";}
+    76%{content: " KASHMIR";}
+    87%{content: " BIHAR";}
+    100%{content: " BENGAL";}
 }
